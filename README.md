@@ -11,11 +11,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lptoan109&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lptoan109&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
