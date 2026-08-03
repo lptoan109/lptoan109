@@ -12,6 +12,7 @@
 
 ### 📊 GitHub Stats
 <details>
+  <summary><b></b></summary>
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lptoan109&theme=dark&hide_border=true" alt="GitHub Streak" />
   </p>
